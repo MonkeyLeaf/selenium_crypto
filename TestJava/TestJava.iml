@@ -10,24 +10,24 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/../../../Selenium Library/selenium-java-4.26.0" />
+          <root url="file://$MODULE_DIR$/../../../../Selenium Library/selenium-java-4.26.0" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$MODULE_DIR$/../../../Selenium Library/selenium-java-4.26.0" />
+          <root url="file://$MODULE_DIR$/../../../../Selenium Library/selenium-java-4.26.0" />
         </SOURCES>
-        <jarDirectory url="file://$MODULE_DIR$/../../../Selenium Library/selenium-java-4.26.0" recursive="false" />
-        <jarDirectory url="file://$MODULE_DIR$/../../../Selenium Library/selenium-java-4.26.0" recursive="false" type="SOURCES" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../../Selenium Library/selenium-java-4.26.0" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../../Selenium Library/selenium-java-4.26.0" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/../../../Selenium Library/webdrivermanager-5.9.2-fat" />
+          <root url="file://$MODULE_DIR$/../../../../Selenium Library/webdrivermanager-5.9.2-fat" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-        <jarDirectory url="file://$MODULE_DIR$/../../../Selenium Library/webdrivermanager-5.9.2-fat" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../../Selenium Library/webdrivermanager-5.9.2-fat" recursive="false" />
       </library>
     </orderEntry>
   </component>
