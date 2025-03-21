@@ -26,3 +26,4 @@ replay_pid*
 .idea
 /config.properties
 /note.txt
+/out/

@@ -1,3 +1,5 @@
+package TestJava.src;
+
 import org.jetbrains.annotations.NotNull;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -33,7 +35,7 @@ public class Main {
         Properties config = loadConfig(configFilePath);
 
         String profilePath = config.getProperty("cnf.profilePath");
-        String profileName = config.getProperty("cnf.profileName");;
+        String profileName = config.getProperty("cnf.profileName");
 
         WebDriverManager.chromedriver().driverVersion("131.0.6778.86").clearDriverCache().setup();
         ChromeDriver driver = getChromeDriver(profilePath, profileName);
